@@ -11,3 +11,7 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 - `PY` [Detect Capital](/day_1/Detect_Capital.py)
 - `JS` [Detect Capital](/day_1/Detect_Capital.js) 
 
+
+### day_2: Design HashSet 
+
+- `PY` [Design HashSet](/day_2/Design_HashSet.py)
