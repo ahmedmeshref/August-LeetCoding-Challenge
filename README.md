@@ -21,3 +21,8 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Valid Palindrome](/day_3/Valid_Palindrome.py)
 - `JS` [Valid Palindrome](/day_3/Valid_palindrome.js)
+
+### day_4:  Power of Four
+
+- `PY` [Power of Four](/day_4/Power_of_Four.py)
+- `JS` [Power of Four](/day_4/Power_of_Four.js)
