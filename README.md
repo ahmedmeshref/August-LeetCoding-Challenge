@@ -26,3 +26,7 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Power of Four](/day_4/Power_of_Four.py)
 - `JS` [Power of Four](/day_4/Power_of_Four.js)
+
+### day_5: Add and Search Word 
+
+- `PY` [Add and Search Word](/day_5/Add_and_Search_Word_Data_structure_design.py)
