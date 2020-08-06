@@ -30,3 +30,8 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 ### day_5: Add and Search Word 
 
 - `PY` [Add and Search Word](/day_5/Add_and_Search_Word_Data_structure_design.py)
+
+### day_6: Find all duplicates in an array 
+
+- `PY` [Find all duplicates in an array](/day_6/Find_All_Duplicates_in_an_Array.py)
+- `JS` [Find all duplicates in an array](/day_6/Find_All_Duplicates_in_an_Array.js)
