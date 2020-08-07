@@ -35,3 +35,8 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Find all duplicates in an array](/day_6/Find_All_Duplicates_in_an_Array.py)
 - `JS` [Find all duplicates in an array](/day_6/Find_All_Duplicates_in_an_Array.js)
+
+### day_7: Vertical Order Traversal  
+
+- `JS` [Vertical Order Traversal](/day_7/Vertical_Order_Traversal_of_a_Binary_tree.js)
+
