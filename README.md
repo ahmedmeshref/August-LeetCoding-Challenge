@@ -40,3 +40,7 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `JS` [Vertical Order Traversal](/day_7/Vertical_Order_Traversal_of_a_Binary_tree.js)
 
+### day_8: Path Sum III  
+
+- `PY` [Path Sum III](/day_8/Path_Sum_III.py)
+
