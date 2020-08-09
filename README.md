@@ -44,3 +44,8 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Path Sum III](/day_8/Path_Sum_III.py)
 
+### day_9: Rotten Oranges  
+
+- `PY` [Rotten Oranges](/day_9/Rotting_Oranges.py)
+- `JS` [Rotten Oranges](/day_9/Rotten_Oranges.js)
+
