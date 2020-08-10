@@ -49,3 +49,8 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 - `PY` [Rotten Oranges](/day_9/Rotting_Oranges.py)
 - `JS` [Rotten Oranges](/day_9/Rotten_Oranges.js)
 
+### day_10: Excel Sheet Column Number  
+
+- `PY` [Excel Sheet Column Number](/day_10/Excel_Sheet_Column_Number.py)
+
+
