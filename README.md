@@ -53,4 +53,9 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Excel Sheet Column Number](/day_10/Excel_Sheet_Column_Number.py)
 
+### day_11: H-Index  
+
+- `PY` [H-Index](/day_11/H-Index.py)
+- `JS` [H-Index](/day_11/H-index.js)
+
 
