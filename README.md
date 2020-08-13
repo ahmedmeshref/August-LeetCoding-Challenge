@@ -62,3 +62,7 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Pascal's Triangle](./day_12/Pascal's_Triangle_II.py)
 - `JS` [Pascal's Triangle](./day_12/Pascal's_Triangle_II.py)
+
+### day_13: Iterator for Combination
+
+- `PY` [Iterator for Combination](./day_13/Iterator_for_Combination.py)
