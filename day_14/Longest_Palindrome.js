@@ -11,8 +11,6 @@ let longestPalindrome = function (s) {
         else occ[char] = 1;
     }
 
-    console.log(occ);
-
     for (const val of Object.values(occ)) {
         ln_longest_pal += Math.floor(val / 2) * 2;
         if (val % 2) odd_exist = true;
