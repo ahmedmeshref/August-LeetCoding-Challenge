@@ -66,3 +66,9 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 ### day_13: Iterator for Combination
 
 - `PY` [Iterator for Combination](./day_13/Iterator_for_Combination.py)
+
+
+### day_14: Longest Palindrome 
+
+- `PY` [Longest Palindrome](./day_14/Longest_Palindrome.py)
+- `JS` [Longest Palindrome](./day_14/Longest_Palindrome.js)
