@@ -72,3 +72,11 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Longest Palindrome](./day_14/Longest_Palindrome.py)
 - `JS` [Longest Palindrome](./day_14/Longest_Palindrome.js)
+
+### day_15: Non-overlapping Intervals 
+
+- `PY` [Non-overlapping Intervals](./day_15/Non-overlapping_Intervals.py)
+
+### day_16: Best time to buy and sell stock III 
+
+- `PY` [Best time to buy and sell stock III](./day_16/Buy_and_Sell_Stock_III.py)
