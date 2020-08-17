@@ -80,3 +80,8 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 ### day_16: Best time to buy and sell stock III 
 
 - `PY` [Best time to buy and sell stock III](./day_16/Buy_and_Sell_Stock_III.py)
+
+### day_17: Distribute Candies to People 
+
+- `PY` [Distribute Candies to People ](./day_17/Distribute_Candies_to_People.py)
+- `JS` [Distribute Candies to People ](./day_17/Distribute_Candies_to_People.js)
