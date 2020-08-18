@@ -1,5 +1,5 @@
 class Solution:
-    def numsSameConsecDiff(self, N: int, K: int) -> List[int]:
+    def numsSameConsecDiff(self, N: int, K: int) -> [int]:
         def helper(num, ln):
             last_dig = num % 10
             if ln < N:
@@ -16,4 +16,4 @@ class Solution:
         self.ans = [] if N > 1 else [0]
         for i in range(1, 10):
             helper(i, 1)
-        return self.ans 
+        return self.ans

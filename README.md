@@ -83,5 +83,10 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 ### day_17: Distribute Candies to People 
 
-- `PY` [Distribute Candies to People ](./day_17/Distribute_Candies_to_People.py)
-- `JS` [Distribute Candies to People ](./day_17/Distribute_Candies_to_People.js)
+- `PY` [Distribute Candies to People](./day_17/Distribute_Candies_to_People.py)
+- `JS` [Distribute Candies to People](./day_17/Distribute_Candies_to_People.js)
+
+### day_18: Number with Same Consecutive Differences  
+
+- `PY` [Number with Same Consecutive Differences](./day_18/Numbers_With_Same_Consecutive_Differences.py)
+- `JS` [Number with Same Consecutive Differences](./day_18/Numbers_With_Same_Consecutive_Differences.js)
