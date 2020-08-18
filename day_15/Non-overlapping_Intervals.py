@@ -1,5 +1,6 @@
 import sys
 
+
 def eraseOverlapIntervals(intervals: [[int]]) -> int:
     intervals.sort()
     rmved_interval = 0
