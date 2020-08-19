@@ -26,3 +26,7 @@ let numsSameConsecDiff = function (N, K) {
     }
     return ans;
 };
+
+
+console.log(8 * (8 ** 2))
+console.log(numsSameConsecDiff(8, 1).length)

@@ -90,3 +90,7 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Number with Same Consecutive Differences](./day_18/Numbers_With_Same_Consecutive_Differences.py)
 - `JS` [Number with Same Consecutive Differences](./day_18/Numbers_With_Same_Consecutive_Differences.js)
+
+### day_19: Goat Latin  
+
+- `PY` [Goal Latin](./day_19/goat_latin.py)
