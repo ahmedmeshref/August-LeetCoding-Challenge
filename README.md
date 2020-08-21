@@ -94,3 +94,12 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 ### day_19: Goat Latin  
 
 - `PY` [Goal Latin](./day_19/goat_latin.py)
+
+### day_20: Reorder List  
+
+- `PY` [Reorder List](./day_20/Reorder_List.py)
+
+### day_21: Sort Array By Parity
+
+- `PY` [Sort Array By Parity](./day_21/Sort_Array_By_Parity.py)
+- `JS` [Sort Array By Parity](./day_21/Sort_Array_by_Parity.js)

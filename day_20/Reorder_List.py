@@ -27,15 +27,3 @@ class Solution:
             else:
                 curr = curr.next
         return head
-
-
-head = ListNode(1)
-head.next = ListNode(2)
-head.next.next = ListNode(3)
-head.next.next.next = ListNode(4)
-s = Solution()
-
-head = s.reorderList(head)
-while head:
-    print(head.val)
-    head = head.next
