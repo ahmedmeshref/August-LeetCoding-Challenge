@@ -103,3 +103,7 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 - `PY` [Sort Array By Parity](./day_21/Sort_Array_By_Parity.py)
 - `JS` [Sort Array By Parity](./day_21/Sort_Array_by_Parity.js)
+
+
+### day_22: Random Point in Non-overlapping Rectangles
+- `PY` [Random Point in Non-overlapping Rectangles](./day_22/Random_Point_in_Non-overlapping_Rectangles.py)
