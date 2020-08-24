@@ -107,3 +107,7 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 ### day_22: Random Point in Non-overlapping Rectangles
 - `PY` [Random Point in Non-overlapping Rectangles](./day_22/Random_Point_in_Non-overlapping_Rectangles.py)
+
+
+### day_24: Sum of Left Leaves
+- `PY` [Sum of Left Leaves](./day_24/Sum_of_Left_Leaves.py)
