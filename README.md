@@ -111,3 +111,7 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 ### day_24: Sum of Left Leaves
 - `PY` [Sum of Left Leaves](./day_24/Sum_of_Left_Leaves.py)
+
+### day_25: Min Cost For Ticket 
+- `PY` [Min Cost For Ticket](./day_25/Minimum_Cost_For_Tickets.py)
+- `JS` [Min Cost For Ticket](./day_25/min_cost_for_tickets.js)
