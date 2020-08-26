@@ -115,3 +115,6 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 ### day_25: Min Cost For Ticket 
 - `PY` [Min Cost For Ticket](./day_25/Minimum_Cost_For_Tickets.py)
 - `JS` [Min Cost For Ticket](./day_25/min_cost_for_tickets.js)
+
+### day_25: Fizz Buzz
+- `JS` [Fizz Buzz](./day_26/Fizz_Buzz.js)
