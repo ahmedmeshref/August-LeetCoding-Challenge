@@ -116,5 +116,11 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 - `PY` [Min Cost For Ticket](./day_25/Minimum_Cost_For_Tickets.py)
 - `JS` [Min Cost For Ticket](./day_25/min_cost_for_tickets.js)
 
-### day_25: Fizz Buzz
+### day_26: Fizz Buzz
 - `JS` [Fizz Buzz](./day_26/Fizz_Buzz.js)
+
+### day_27: Find Right Interval
+- `JS` [Find Right Interval](./day_27/find_right_interval.py)
+
+### day_28: Implement Rand10() Using Rand7()
+- `JS` [Implement Rand10() Using Rand7()](./day_28/Implement_Rand10_Using_Rand7.py)
