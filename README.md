@@ -124,3 +124,9 @@ Python and JavaScript solutions for August 30 Days of LeetCoding Challenge.
 
 ### day_28: Implement Rand10() Using Rand7()
 - `JS` [Implement Rand10() Using Rand7()](./day_28/Implement_Rand10_Using_Rand7.py)
+
+### day_29: Pancake Sorting 
+- `JS` [Pancake Sorting](./day_29/Pancake_Sorting.py)
+
+### day_31: Delete Node in BST
+- `JS` [Delete Node in BST](./day_31/Delete_Node_in_a_BST.py)
